@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![EllieMwangi](https://circleci.com/gh/EllieMwangi/ML_API.svg?style=svg)](https://circleci.com/gh/EllieMwangi/ML_API)
 
 ## Project Overview
 
