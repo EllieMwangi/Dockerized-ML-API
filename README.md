@@ -1,4 +1,4 @@
-[![EllieMwangi](https://circleci.com/gh/EllieMwangi/ML_API.svg?style=svg)](https://circleci.com/gh/EllieMwangi/ML_API)
+[![EllieMwangi](https://circleci.com/gh/EllieMwangi/Dockerized-ML-API.svg?style=svg)](https://circleci.com/gh/EllieMwangi/Dockerized-ML-API)
 
 ## Project Overview
 
